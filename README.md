@@ -1,4 +1,4 @@
-# Hi there! 👋🏽 I'm Josiah Olaleye
+# Hi there! 👋🏽 I'm the SolCoder
 
 🎨 Frontend Developer | 🌟 Curious Learner | 🤝🏽 Passionate about Helping
 
